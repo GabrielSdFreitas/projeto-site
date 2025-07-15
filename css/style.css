@@ -1,3 +1,12 @@
-body { font-family: Arial, sans-serif; }
-h1 { text-align: center; }
-h2 { text-align: center; color: #8d0707; }
+body { font-family: Arial, sans-serif; 
+          background-color: #f4f4f4; 
+          color: #333; 
+          margin: 0; 
+          padding: 20px; }
+h1 { text-align: center; 
+          color: #333; 
+          margin-bottom: 20px; }
+h2 { text-align: center; color: #8d0707; 
+          margin-top: 20px; }
+hr { border: 1px solid #ccc; 
+          margin: 20px 0; }
